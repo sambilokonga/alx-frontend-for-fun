@@ -3,6 +3,7 @@ ul {
   justify-content: center;
 }
 
+
 li {
   background-color: #f7f7f7;
   list-style: none;
@@ -15,6 +16,7 @@ li {
   padding-top: 10px;
   font-size: 2rem;
 }
+
 
 .icon {
   display: inline-block;
